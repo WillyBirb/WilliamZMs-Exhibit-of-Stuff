@@ -12,7 +12,7 @@ My academic and professional pursuits in environmental science and information t
 
 | Skill                                         | Associated Project                                         |
 |-----------------------------------------------|-----------------------------------------------------------|
-| GIS Analysis and Environmental Assessment     | [Ventura County Groundwater Basins](https://www.vcpublicworks.org/wp-content/uploads/2018/08/groundwaterresourcesbasinmap.pdf) |
+| GIS Analysis and Environmental Assessment     | [Ventura County Groundwater Basins](https://www.vcpublicworks.org/wp-content/uploads/2018/08/groundwaterresourcesbasinmap.pdf), [Santa Clara River](https://www.linkedin.com/feed/update/urn:li:activity:7240126679824670721/) |
 | Drone Surveying and Geospatial Data Collection| [Freeman Diversion](https://teams.microsoft.com/l/message/48:notes/1734028816956?context=%7B%22contextType%22%3A%22chat%22%7D) |
 | Enterprise Server Management                  | ArcGIS Enterprise, PostgreSQL, SQL, Python               |
 | Disaster Response Coordination                | Tubbs Fire, Glass Fire, COVID-19, [Hurricane Ida](https://www.linkedin.com/in/william-z-a20391233/overlay/1733500744855/single-media-viewer/?profileId=ACoAADpBOXgBMKbrqUZ6las4WwRKSetGO_zvGXI) |
